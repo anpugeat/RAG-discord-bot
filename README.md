@@ -18,10 +18,10 @@ edue-bot/
 │   ├── qa.py               # RAG-powered Q&A system
 │   └── rate_limit.py       # Request rate limiting system
 │
-├── content/                # Educational documents for RAG - I have split them into the following folder categories but divide this how you wish,
-│   ├── assignments/        # the bot will browse everything in the 'content' folder.
-│   ├── lecture_notes/      
-│   ├── research_papers/   
+├── content/                # Educational documents for RAG - I have split them into
+│   ├── assignments/        # into the following folder categories but divide this how 
+│   ├── lecture_notes/      # wish, the bot will browse everything in the 'content' folder.
+│   ├── research_papers/    
 │   ├── textbooks/          
 │   └── misc/               
 │
